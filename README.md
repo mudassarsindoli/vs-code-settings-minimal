@@ -4,6 +4,18 @@ A clean, code-first Visual Studio Code configuration built for focused developme
 
 ## Preview
 
+<p align="center">
+  <img src="1.png" alt="Minimal VS Code Setup" width="900">
+</p>
+
+<p align="center">
+  <img src="2.png" alt="Minimal VS Code Setup" width="900">
+</p>
+
+<p align="center">
+  <img src="3.png" alt="Minimal VS Code Setup" width="900">
+</p>
+
 - **Theme:** Atom One Dark
 - **Font:** JetBrains Mono Nerd Font
 - **Font size:** 17px
