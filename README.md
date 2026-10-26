@@ -2,8 +2,6 @@
 
 A clean, code-first Visual Studio Code configuration built for focused development. Combines the **Atom One Dark** theme, JetBrains Mono typography, a minimal interface, and keyboard-driven navigation.
 
-## Preview
-
 <p align="center">
   <img src="1.png" alt="Minimal VS Code Setup" width="900">
 </p>
@@ -15,6 +13,8 @@ A clean, code-first Visual Studio Code configuration built for focused developme
 <p align="center">
   <img src="3.png" alt="Minimal VS Code Setup" width="900">
 </p>
+
+## Preview
 
 - **Theme:** Atom One Dark
 - **Font:** JetBrains Mono Nerd Font
